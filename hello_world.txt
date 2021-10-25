@@ -1,2 +1,5 @@
 Testing how to push to github
+<<<<<<< HEAD
 Reviewing stages of git
+=======
+>>>>>>> dc3fabc2fe7e62f71c2f0cee6d54c9f0ccd33232
